@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Albin/Projects/Parking_in_Prague/Parking_in_Prague/Parking_in_Prague.csproj": {}
+  },
+  "projects": {
+    "/Users/Albin/Projects/Parking_in_Prague/Parking_in_Prague/Parking_in_Prague.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Albin/Projects/Parking_in_Prague/Parking_in_Prague/Parking_in_Prague.csproj",
+        "projectName": "Parking_in_Prague",
+        "projectPath": "/Users/Albin/Projects/Parking_in_Prague/Parking_in_Prague/Parking_in_Prague.csproj",
+        "packagesPath": "/Users/Albin/.nuget/packages/",
+        "outputPath": "/Users/Albin/Projects/Parking_in_Prague/Parking_in_Prague/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Albin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
